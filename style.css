@@ -5,7 +5,7 @@
 body {
 margin: 0;
 font-family: "Hiragino Kaku Gothic ProN", sans-serif;
-background-color: #EAF7FA;
+background-color: #DDF3F7;
 color: #333333;
 }
 
@@ -24,7 +24,7 @@ margin: 0 auto;
 /* ページ全体のトップ部分 */
 .top-wrapper {
 padding: 80px 0;
-background-color: #EAF7FA;
+background-color: #DDF3F7;
 color: #333333;
 text-align: center;
 }
