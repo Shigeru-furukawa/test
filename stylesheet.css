@@ -9,13 +9,11 @@ background-color: #EAF7FA;
 color: #333333;
 }
 
-/* リンク */
 a {
 text-decoration: none;
 color: #333333;
 }
 
-/* ページ全体の幅 */
 .container {
 width: 100%;
 max-width: 1000px;
@@ -23,13 +21,11 @@ padding: 0 15px;
 margin: 0 auto;
 }
 
-/* トップページ */
+/* ページ全体のトップ部分 */
 .top-wrapper {
 padding: 80px 0;
-background-image: url("top.png");
-background-size: cover;
-background-position: center;
-color: white;
+background-color: #EAF7FA;
+color: #333333;
 text-align: center;
 }
 
